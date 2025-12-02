@@ -1,5 +1,9 @@
 ## Hello there my name is Lucas 👋
-### Computer Science • Future Cybersecurity Bachelor • Java & SQL
+![Computer Science](https://img.shields.io/badge/-COMPUTER%20SCIENCE-4A5568?style=plastic)
+![Student](https://img.shields.io/badge/-STUDENT-E6D3B3?style=plastic)
+![Java](https://img.shields.io/badge/-JAVA-E97420?style=plastic)
+![SQL](https://img.shields.io/badge/-SQL-2A71D0?style=plastic)
+
 
 Hi, I'm **Lucas**, also known as **GladVillainy**.  
 I am currently studying to become a **Computer Science AP**, and I plan to pursue a **Bachelor's degree in Cybersecurity** afterwards.  
