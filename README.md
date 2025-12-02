@@ -10,7 +10,7 @@
 Hi, I'm **Lucas**, also known as **GladVillainy**.  
 I am currently studying to become a **Computer Science AP**, and I plan to pursue a **Bachelor's degree in Cybersecurity** afterwards.  
 
-My main focus areas right now are **Java**, **SQL**, and building a strong foundation in coding and development.
+My main focus areas right now are building a strong foundation in coding and development.
 
 ## 🧩 Development Approach
 
