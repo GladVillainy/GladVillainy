@@ -4,6 +4,8 @@
 ![Java](https://img.shields.io/badge/-JAVA-E97420?style=plastic)
 ![SQL](https://img.shields.io/badge/-SQL-2A71D0?style=plastic)
 
+![English](https://img.shields.io/badge/-ENGLISH-4169E1?style=plastic)
+![Danish](https://img.shields.io/badge/-DANISH-C23B22?style=plastic)
 
 Hi, I'm **Lucas**, also known as **GladVillainy**.  
 I am currently studying to become a **Computer Science AP**, and I plan to pursue a **Bachelor's degree in Cybersecurity** afterwards.  
