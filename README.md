@@ -10,7 +10,7 @@ My main focus areas right now are **Java**, **SQL**, and building a strong found
 
 I focus on writing clean and maintainable code by working with:
 
-- **Object-Oriented Programming (OOP)** — structure, reusability, and clear responsibility.
+- **Iterative Object-Oriented Programming (OOP)** — structure, reusability, and clear responsibility.
 - **Test-Driven Development (TDD)** — writing tests early to ensure stability and predictable outcomes.
 - **Structured workflow** — planning, documenting, and maintaining clarity in code and tasks.
 - **Version control discipline** — meaningful commits, branching strategy, and consistent documentation.
