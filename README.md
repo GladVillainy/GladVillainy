@@ -16,17 +16,18 @@ My main focus areas right now are building a strong foundation in coding and dev
 
 I focus on writing clean and maintainable code by working with:
 
-- **Iterative Object-Oriented Programming (OOP)** — structure, reusability, and clear responsibility.
+- **Object-Oriented Analysis & Design (OOAD)** —  identifying classes, designing UML diagrams, and implementing maintainable architecture
+- **IIterative development** - planning, building, reviewing, and refining in short cycles
 - **Test-Driven Development (TDD)** — writing tests early to ensure stability and predictable outcomes.
 - **Structured workflow** — planning, documenting, and maintaining clarity in code and tasks.
 - **Version control discipline** — meaningful commits, branching strategy, and consistent documentation.
 
 I also actively use GitHub’s tools to support my workflow:
 
-- **Projects / Kanban board** for task management and progress tracking  
-- **Issues** for organizing work and defining clear tasks  
-- **Pull Requests** for reviewing changes and maintaining code quality  
-- **Discussions & communication** to collaborate effectively
+- **Projects / Kanban board** - for task management and progress tracking  
+- **Issues** - for organizing work and defining clear tasks  
+- **Pull Requests** - for reviewing changes and maintaining code quality  
+- **Discussions & communication** - to collaborate effectively
 
 
 ---
@@ -58,4 +59,4 @@ Backend development • System architecture • Cybersecurity • Servers
 ---
 
 ## 📫 Contact
-G-mail: Lucasbuades00@gmail.com
+
