@@ -17,7 +17,7 @@ My main focus areas right now are building a strong foundation in coding and dev
 I focus on writing clean and maintainable code by working with:
 
 - **Object-Oriented Analysis & Design (OOAD)** —  identifying classes, designing UML diagrams, and implementing maintainable architecture
-- **IIterative development** - planning, building, reviewing, and refining in short cycles
+- **Iterative development** - planning, building, reviewing, and refining in short cycles
 - **Test-Driven Development (TDD)** — writing tests early to ensure stability and predictable outcomes.
 - **Structured workflow** — planning, documenting, and maintaining clarity in code and tasks.
 - **Version control discipline** — meaningful commits, branching strategy, and consistent documentation.
@@ -25,24 +25,24 @@ I focus on writing clean and maintainable code by working with:
 
 I also actively use GitHub’s tools to support my workflow:
 
-- **Projects / Kanban board** - for task management and progress tracking  
-- **Issues** - for organizing work and defining clear tasks  
-- **Pull Requests** - for reviewing changes and maintaining code quality  
-- **Discussions & communication** - to collaborate effectively
+- **Projects / Kanban board** - for task management and progress tracking. 
+- **Issues** - for organizing work and defining clear tasks.  
+- **Pull Requests** - for reviewing changes and maintaining code quality.  
+- **Discussions & communication** - to collaborate effectively.
 
 
 ---
 
 ## 🚀 Current Focus
-- Developing programming skills through study and practice projects  
-- Strengthening my understanding of backend development  
-- Preparing for further education in **cybersecurity**
+- Developing programming skills through study and practice projects.
+- Strengthening my understanding of backend development. 
+- Preparing for further education in **cybersecurity**.
 
 ---
 
 ## 📚 Learning
-- **Java** — object-oriented programming and software structure  
-- **SQL** — databases, queries, and normalization
+- **Java** — object-oriented programming and software structure . 
+- **SQL** — databases, queries, and normalization.
 
 ---
 
@@ -52,7 +52,7 @@ I also actively use GitHub’s tools to support my workflow:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
 
 **Tools:**  
-IntelliJ IDEA • SQLite • Git • GitHub • AI-tools (ChatGPT Plus & Copilot)
+IntelliJ IDEA • Git • GitHub • AI-tools (ChatGPT Plus & Copilot)
 
 **Areas of interest:**  
 Backend development • System architecture • Cybersecurity • Servers
