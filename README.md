@@ -21,7 +21,7 @@ I focus on writing clean and maintainable code by working with:
 - **Test-Driven Development (TDD)** — writing tests early to ensure stability and predictable outcomes.
 - **Structured workflow** — planning, documenting, and maintaining clarity in code and tasks.
 - **Version control discipline** — meaningful commits, branching strategy, and consistent documentation.
-- **AI-Assited Devlopment Approach** - debugging, review, documentation support (Javadoc), readme.
+- **AI-assisted development approach** - debugging, review, documentation support (Javadoc), readme.
 
 I also actively use GitHub’s tools to support my workflow:
 
@@ -52,7 +52,7 @@ I also actively use GitHub’s tools to support my workflow:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
 
 **Tools:**  
-IntelliJ IDEA • SQLite • Git • GitHub • ChatGPT Plus 
+IntelliJ IDEA • SQLite • Git • GitHub • AI-tools (ChatGPT Plus & Copilot)
 
 **Areas of interest:**  
 Backend development • System architecture • Cybersecurity • Servers
