@@ -12,7 +12,7 @@ I am currently studying to become a **Computer Science AP**, and I plan to pursu
 
 My main focus areas right now are building a strong foundation in coding and development.
 
-## 🧩 Development Approach
+## Development Approach
 
 I focus on writing clean and maintainable code by working with:
 
@@ -47,12 +47,17 @@ I also actively use GitHub’s tools to support my workflow:
 ---
 
 ## 🧰 Tech Toolbox
-**Languages:**  
-<img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="120" alt="SQLite logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
 
-**Tools:**  
-IntelliJ IDEA • Git • GitHub • AI-tools (ChatGPT Plus & Copilot)
+**Languages:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+
+**Databases:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+
+**Tools & DevOps:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
 **Areas of interest:**  
 Backend development • System architecture • Cybersecurity • Servers
