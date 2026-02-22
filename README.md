@@ -59,6 +59,9 @@ I also actively use GitHub’s tools to support my workflow:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
+**IDE:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+
 **Areas of interest:**  
 Backend development • System architecture • Cybersecurity • Servers
 
