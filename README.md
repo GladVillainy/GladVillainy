@@ -10,7 +10,6 @@ I'm a **Datamatiker** (Computer Science AP) student at **EK Lyngby**, currently 
 - Full-stack Java development with **Javalin**, **Thymeleaf**, and **PostgreSQL**
 - Linux fundamentals and shell scripting — building toward a security mindset
 - Deploying and securing apps on real servers (DigitalOcean, SSH, Docker, Caddy)
-- Laying the groundwork for a future in **penetration testing**
 
 ---
 
