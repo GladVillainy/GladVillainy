@@ -1,7 +1,7 @@
 ## Hi there, I'm Lucas 👋
 
 
-I'm a **Datamatiker** (Computer Science AP) student at **EK Lyngby**, currently in my 3rd semester. I build full-stack Java web applications and spend my free time pulling things apart on Linux — long-term I'm aiming for a **Cybersecurity top-up bachelor** and a career in **penetration testing / IT security consulting**.
+I'm a **Datamatiker** (Computer Science AP) student at **EK Lyngby**, currently in my 3rd semester. I build full-stack Java web applications and spend my free time pulling things apart on Linux — long-term I'm aiming for a **Cybersecurity top-up bachelor** and pursue a career in **IT security consulting**.
 
 ---
 
