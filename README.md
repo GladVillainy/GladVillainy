@@ -74,7 +74,9 @@ Meaningful commits, a consistent branching strategy, and clear documentation thr
 
 ## 🏆 Certificates
 
-- 🐧 **[Boot.dev – Linux](https://www.boot.dev/u/GladVillainy)** — A course covering CLI fundamentals and the Linux toolkit
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" title="Linux"/> **[Boot.dev – Linux](https://www.boot.dev/u/GladVillainy)** — 10-hour course covering CLI fundamentals and the Linux toolkit
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" title="Git"/> **[Boot.dev – Git](https://www.boot.dev/u/GladVillainy)** — Covers Git internals, branching, merging, rebase, and reset
 
 ---
 
